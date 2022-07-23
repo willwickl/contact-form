@@ -1,0 +1,28 @@
+p {
+    position: fixed;
+    left: 50vw;
+    top: 10vh;
+    color: red;
+}
+
+input {
+    left: 25vw;
+    top: 20vh;
+    position: relative;
+    width: 50vw;
+    height: 5vh;
+}
+
+.message {
+    left: 25vw;
+    top: 25vh;
+    position: relative;
+    width: 50vw;
+    height: 25vh;
+}
+
+button {
+    position: relative;
+    left: 0vw;
+    top: 35vh;
+}
